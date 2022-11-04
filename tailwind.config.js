@@ -8,7 +8,7 @@ module.exports = {
       },
 
       backgroundImage: {
-        app: 'url(/app-bg.png)',
+        app: "url(/app-bg.png)",
       },
 
       colors: {
@@ -25,7 +25,7 @@ module.exports = {
         yellow: {
           500: "#F7DD43",
           700: "#E3CD3D",
-        }
+        },
       },
     },
   },
